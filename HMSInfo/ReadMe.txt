@@ -1,5 +1,5 @@
 Program: HMSInfo.exe
-Version: 2.0.0.1 EN_US
+Version: 1.0.0.2 EN_US
 Purpose: Dectects and inspects hMailServer Installations
 Author: Dravion 
 Contact: dravion@ht-foss.net
